@@ -1,1 +1,2 @@
-config-dev：version：1.0
+config:
+  info:"master branch springcloud-config/config-dev.yml versition=1.0"
